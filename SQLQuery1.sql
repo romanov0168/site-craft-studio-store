@@ -1,0 +1,1 @@
+﻿SELECT TOP 10 Name, Article, Price, IdCategory FROM Products ORDER BY Price;
