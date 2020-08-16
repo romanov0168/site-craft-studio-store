@@ -1,0 +1,310 @@
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.exe
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.csprojAssemblyReference.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorAssemblyInfo.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorAssemblyInfo.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.AssemblyInfoInputs.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.AssemblyInfo.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.TagHelpers.input.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.TagHelpers.output.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorCoreGenerate.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\StoreWebApp.StaticWebAssets.Manifest.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\StoreWebApp.StaticWebAssets.xml
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.pdb
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.deps.json
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.runtimeconfig.json
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.runtimeconfig.dev.json
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.pdb
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.Views.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.Views.pdb
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.Views.pdb
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.csproj.CopyComplete
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.genruntimeconfig.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateCategory.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\DeleteCategory.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditCategory.cshtml.g.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.exe
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.deps.json
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.runtimeconfig.json
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.runtimeconfig.dev.json
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.pdb
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.Views.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.Views.pdb
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.csprojAssemblyReference.cache
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorAssemblyInfo.cache
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorAssemblyInfo.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.AssemblyInfoInputs.cache
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.AssemblyInfo.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.TagHelpers.input.cache
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.TagHelpers.output.cache
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorCoreGenerate.cache
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateCategory.cshtml.g.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\DeleteCategory.cshtml.g.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditCategory.cshtml.g.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorTargetAssemblyInfo.cache
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorTargetAssemblyInfo.cs
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.Views.pdb
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.csproj.CopyComplete
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\StoreWebApp.StaticWebAssets.Manifest.cache
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\StoreWebApp.StaticWebAssets.xml
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.pdb
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.genruntimeconfig.cache
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.csproj.CoreCompileInputs.cache
+E:\Browser downloads\StoreWebApp (1)\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.exe
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.deps.json
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.runtimeconfig.json
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.runtimeconfig.dev.json
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.pdb
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.Views.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.Views.pdb
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.csprojAssemblyReference.cache
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorAssemblyInfo.cache
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorAssemblyInfo.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.AssemblyInfoInputs.cache
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.AssemblyInfo.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.TagHelpers.input.cache
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.TagHelpers.output.cache
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorCoreGenerate.cache
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateCategory.cshtml.g.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\DeleteCategory.cshtml.g.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditCategory.cshtml.g.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.Views.pdb
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.csproj.CopyComplete
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\StoreWebApp.StaticWebAssets.Manifest.cache
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\StoreWebApp.StaticWebAssets.xml
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.dll
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.pdb
+C:\Users\pro10\Downloads\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.genruntimeconfig.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.exe
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.deps.json
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.runtimeconfig.json
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.runtimeconfig.dev.json
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.pdb
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.Views.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\StoreWebApp.Views.pdb
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.csprojAssemblyReference.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorAssemblyInfo.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorAssemblyInfo.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.AssemblyInfoInputs.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.AssemblyInfo.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.TagHelpers.input.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.TagHelpers.output.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorCoreGenerate.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateCategory.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\DeleteCategory.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditCategory.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.Views.pdb
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.csproj.CopyComplete
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\StoreWebApp.StaticWebAssets.Manifest.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\StoreWebApp.StaticWebAssets.xml
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.dll
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.pdb
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\StoreWebApp.genruntimeconfig.cache
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Admin.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Catalog.cshtml.g.cs
+C:\Users\pro10\source\repos\StoreWebApp\StoreWebApp\StoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
