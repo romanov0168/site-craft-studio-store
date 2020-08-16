@@ -1,0 +1,48 @@
+﻿@model StoreWebApp.Models.Product
+@{
+    ViewBag.Title = "Удаление товара";
+}
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>Имя</dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>Артикул</dt>
+        <dd>@Html.DisplayFor(model => model.Article)</dd>
+
+        <dt>Цена</dt>
+        <dd>@Html.DisplayFor(model => model.Price)</dd>
+
+        <dt>Наличие</dt>
+        <dd>@Html.DisplayFor(model => model.Availability)</dd>
+
+        <dt>Описание</dt>
+        <dd>@Html.DisplayFor(model => model.Description)</dd>
+
+        <dt>Изображение</dt>
+        <dd>@Html.DisplayFor(model => model.Image)</dd>
+
+        <dt>Категория</dt>
+        <dd>@Html.DisplayFor(model => model.IdCategory)</dd>
+
+        <dt>Рекомендация 1</dt>
+        <dd>@Html.DisplayFor(model => model.IdRecommendation1)</dd>
+
+        <dt>Рекомендация 2</dt>
+        <dd>@Html.DisplayFor(model => model.IdRecommendation2)</dd>
+
+        <dt>Рекомендация 3</dt>
+        <dd>@Html.DisplayFor(model => model.IdRecommendation3)</dd>
+    </dl>
+
+    <div>
+        <form asp-controller="Home" asp-action="Delete" method="post">
+            <div class="form-group">
+                <input type="submit" class="btn btn-default" value="Удалить" />
+            </div>
+        </form>
+    </div>
+</div>

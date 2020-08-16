@@ -1,0 +1,68 @@
+﻿@model StoreWebApp.ViewModels.IndexViewModel
+@{
+    ViewBag.Title = "Каталог";
+}
+
+<!-- ================ start banner area ================= -->
+<section class="blog-banner-area" id="category">
+    <div class="container h-100">
+        <div class="blog-banner">
+            <div class="text-center">
+                <h1>Каталог</h1>
+                <nav aria-label="breadcrumb" class="banner-breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item">товаров</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ================ end banner area ================= -->
+
+<!-- ================ category section start ================= -->
+<section class="section-margin--small mb-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-12">
+                <!-- Start Filter Bar -->
+                <div class="filter-bar d-flex flex-wrap align-items-center">
+                    <div class="sorting">
+                        <form method="get">
+                            <select name="category" asp-items="Model.SelectCategories" class="form-control"></select>
+                            <button class="button button--active ml-3 ml-xl-4" type="submit">Выбрать</button>
+                        </form>
+                    </div>
+                </div>
+                <!-- End Filter Bar -->
+                <!-- Start Best Seller -->
+                <section class="lattest-product-area pb-40 category-list">
+                    <div class="row">
+                        @foreach (var item in Model.Products)
+                        {
+                            <div class="col-md-4 col-lg-3">
+                                <div class="card text-center card-product">
+                                    <div class="card-product__img">
+                                        <img class="card-img" src="../..@item.Image" alt="">
+                                        <ul class="card-product__imgOverlay">
+                                            <li><a asp-action="Details" asp-controller="Home" asp-route-id="@item.Id"><button><i class="ti-search"></i></button></a></li>
+                                            <li><button><i class="ti-shopping-cart"></i></button></li>
+                                            <li><button><i class="ti-heart"></i></button></li>
+                                        </ul>
+                                    </div>
+                                    <div class="card-body">
+                                        <p>@item.Category.Name</p>
+                                        <h4 class="card-product__title"><a asp-action="Details" asp-controller="Home" asp-route-id="@item.Id">@item.Name</a></h4>
+                                        <p class="card-product__price">₽@item.Price</p>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </section>
+                <!-- End Best Seller -->
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ================ category section end ================= -->

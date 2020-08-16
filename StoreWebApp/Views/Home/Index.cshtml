@@ -1,0 +1,78 @@
+﻿@model StoreWebApp.ViewModels.IndexViewModel
+@{
+    ViewBag.Title = "Главная";
+}
+<main class="site-main">
+
+    <!--================ Hero banner start =================-->
+    <section class="hero-banner">
+        <div class="container">
+            <div class="row no-gutters align-items-center pt-60px">
+                <div class="col-5 d-none d-sm-block">
+                    <div class="hero-banner__img">
+                        <img class="img-fluid" src="img/home/banner.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-sm-7 col-lg-6 offset-lg-1 pl-4 pl-md-5 pl-lg-0">
+                    <div class="hero-banner__content">
+                        <h4>Изделия ручной работы</h4>
+                        <h1>Крафт студия</h1>
+                        <p>"Вещи ручной работы — это роскошь. Иметь их каждому совсем не обязательно. Тот, кто хочет их иметь, делает их сам или платит мастеру за его труд."</p>
+                        <p>Коко Шанель</p>
+                        <a class="button button-hero" asp-area="" asp-controller="Home" asp-action="Catalog">За покупками!</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================ Hero banner start =================-->
+    <!-- ================ offer section start ================= -->
+    <section class="offer" id="parallax-1" data-anchor-target="#parallax-1" data-300-top="background-position: 0px 30px" data-top-bottom="background-position: 0 20px">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-5">
+                    <div class="offer__content text-center">
+                        <h3>Оптом дешевле!</h3>
+                        <h4>Чем больше сумма заказа, тем больше выгода</h4>
+                        <p>
+                            При заказе от 5 шт. любого товара используйте <br>
+                            промокод для получения скидки: <br>
+                            • на заказ до 2 999 руб — 15%; <br>
+                            • на заказ от 3 000 руб — 20%.
+                        </p>
+                        <input type="text" class="form-control" value="опт2020" id="coupon" name="coupon">
+                        <button class="button button--active mt-3 mt-xl-4" onclick="myFunction()">Скопировать</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ================ offer section end ================= -->
+    <!-- ================ Subscribe section start ================= -->
+    <section class="subscribe-position">
+        <div class="container">
+            <div class="subscribe text-center">
+                <h3 class="subscribe__title">Рассылка</h3>
+                <p>Подпишитесь на рассылку, чтобы получать актуальную информацию, персональные скидки и особенные предложения</p>
+                <div id="mc_embed_signup">
+                    <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe-form form-inline mt-5 pt-1">
+                        <div class="form-group ml-sm-auto">
+                            <input class="form-control mb-1" type="email" name="EMAIL" placeholder="Введите адрес эл. почты" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Введите адрес эл. почты'">
+                            <div class="info"></div>
+                        </div>
+                        <button class="button button-subscribe mr-auto mb-1" type="submit">Подписаться</button>
+                        <div style="position: absolute; left: -5000px;">
+                            <input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
+                        </div>
+
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- ================ Subscribe section end ================= -->
+
+</main>
+<main class="pb-5"></main>
+<main class="pb-5"></main>

@@ -1,0 +1,58 @@
+﻿@model StoreWebApp.ViewModels.IndexViewModel
+@{
+    ViewBag.Title = "Админ-панель";
+}
+<h2>Категории</h2>
+<a asp-action="CreateCategory">Добавить категорию</a>
+<table class="table">
+
+    <tr>
+        <td><b>ID</b></td>
+        <td><b>Название</b></td>
+        <td></td>
+    </tr>
+    @foreach (var item in Model.Categories)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>
+                <a asp-action="EditCategory" asp-controller="Home" asp-route-id="@item.Id">Изменить</a> |
+                <a asp-action="DeleteCategory" asp-controller="Home" asp-route-id="@item.Id">Удалить</a>
+            </td>
+        </tr>
+    }
+</table>
+
+<h2>Товары</h2>
+<a asp-action="Create">Добавить товар</a>
+<form method="get">
+    <select name="category" asp-items="Model.SelectCategories" class="form-control"></select>
+    <button class="btn btn-default" type="submit">Выбрать</button>
+</form>
+<table class="table">
+
+    <tr>
+        <td><b>ID</b></td>
+        <td><b>Изображение</b></td>
+        <td><b>Категория</b></td>
+        <td><b>Название</b></td>
+        <td><b>Цена</b></td>
+        <td></td>
+    </tr>
+    @foreach (var item in Model.Products)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td><img class="img-fluid" width="50" src="../..@item.Image" alt=""></td>
+            <td>@item.Category.Name</td>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+            <td>
+                <a asp-action="Details" asp-controller="Home" asp-route-id="@item.Id">Подробнее</a> |
+                <a asp-action="Edit" asp-controller="Home" asp-route-id="@item.Id">Изменить</a> |
+                <a asp-action="Delete" asp-controller="Home" asp-route-id="@item.Id">Удалить</a>
+            </td>
+        </tr>
+    }
+</table>
